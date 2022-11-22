@@ -1,4 +1,4 @@
-<h2 align="center">Hey there, I'm Maulik 👋</a></h2>
+<h2 align="center">Hey there, I'm Maulik <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></a></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-maulikbhalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maulik-bhalani/)](https://www.linkedin.com/in/maulik-bhalani/)
 [![Gmail Badge](https://img.shields.io/badge/-bhalanimaulikkumar2018@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhalanimaulikkumar2018@gmail.com)](mailto:bhalanimaulikkumar2018@gmail.com)
@@ -7,12 +7,12 @@
 ## About me:
 - 🏫 Currently Persuing Bachelors Degree in Computer Science and Engineering (CSE'23) at [***Ahmedabad University***](https://ahduni.edu.in/).
 - 🌱 I’m currently learning Anglar and Flutter.
-<br></br>
+
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/maulik-bhalani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MaulikBhalani" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bhalani_maulik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Maulik Bhalani" height="30" width="40" /></a>
-<br></br>
+
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
