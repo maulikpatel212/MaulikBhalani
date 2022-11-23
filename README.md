@@ -1,34 +1,36 @@
 <h1 align="center">Hey there, I'm Maulik <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></a></h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=500&height=120&lines=Computer+Science+Engineer...&hearts;++;Passionate+Full-Stack+Web+Developer,;Love+to+learn+new+Technologies..<3"></a>
+</p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-maulikbhalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maulik-bhalani/)](https://www.linkedin.com/in/maulik-bhalani/)
 [![Gmail Badge](https://img.shields.io/badge/-bhalanimaulikkumar2018@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhalanimaulikkumar2018@gmail.com)](mailto:bhalanimaulikkumar2018@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=MaulikBhalani.MaulikBhalani)
 
-## About me:
+## :sassy_man: About me:
 - 🏫 Currently Persuing Bachelors Degree in Computer Science and Engineering (CSE'23) at [***Ahmedabad University***](https://ahduni.edu.in/).
-- 🌱 I’m currently learning Anglar and Flutter.
-
-## Connect with me:
-
-<a href="https://www.linkedin.com/in/maulik-bhalani/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MaulikBhalani" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bhalani_maulik/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Maulik Bhalani" height="30" width="40" /></a>
-
-## Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-ight:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
+- 🌱 A passionate Full-Stack web developer and I’m currently learning Anglar and Flutter.
 <br /><br />
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=MaulikBhalani&show_icons=true&count_private=true&theme=dark" alt="MAULIK-BHALANI" />
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50">Connect with me:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaulikBhalani"/></p>
+<a href="https://www.linkedin.com/in/maulik-bhalani/">
+    <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a> &nbsp;
+<a href="https://www.instagram.com/bhalani_maulik/">
+    <img height="40" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-512.png"/>
+</a>
+<br /><br />
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<br /><br />
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=MaulikBhalani&show_icons=true&count_private=true&theme=radical" alt="MAULIK-BHALANI" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaulikBhalani&theme=radical" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaulikBhalani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages known" /></p>
