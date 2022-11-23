@@ -11,6 +11,8 @@
 ## :sassy_man: About me:
 - 🏫 Currently Persuing Bachelors Degree in Computer Science and Engineering (CSE'23) at [***Ahmedabad University***](https://ahduni.edu.in/).
 - 🌱 A passionate Full-Stack web developer and I’m currently learning Anglar and Flutter.
+- :nerd_face: Always `learning new things` and love to take `Tech Challenges`
+- 💬 Ask me about Python, React, Express, sql
 <br /><br />
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50">Connect with me:
