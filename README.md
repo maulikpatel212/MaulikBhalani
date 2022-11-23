@@ -1,4 +1,4 @@
-<h2 align="center">Hey there, I'm Maulik <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></a></h2>
+<h1 align="center">Hey there, I'm Maulik <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"></a></h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-maulikbhalani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maulik-bhalani/)](https://www.linkedin.com/in/maulik-bhalani/)
 [![Gmail Badge](https://img.shields.io/badge/-bhalanimaulikkumar2018@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bhalanimaulikkumar2018@gmail.com)](mailto:bhalanimaulikkumar2018@gmail.com)
