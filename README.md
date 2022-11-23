@@ -28,4 +28,7 @@
 <br /><br />
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=MaulikBhalani&show_icons=true&count_private=true&theme=dark" alt="MAULIK-BHALANI" />
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaulikBhalani"/></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaulikBhalani&show_icons=true&locale=en&layout=compact&theme=radical" alt="Languages known" /></p>
